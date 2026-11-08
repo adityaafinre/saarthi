@@ -1,0 +1,22 @@
+MCA SCHEDULE VII - ELIGIBLE CSR ACTIVITIES AND COMPLIANCE RULES
+
+1. LEGAL COMPLIANCE FRAMEWORK (Companies Act 2013 - Section 135)
+Section 135 of the Companies Act, 2013 mandates that every company having a net worth of rupees five hundred crore or more, or turnover of rupees one thousand crore or more, or a net profit of rupees five crore or more during any financial year shall spend at least 2% of the average net profits of the company made during the three immediately preceding financial years on Corporate Social Responsibility (CSR) policies.
+
+2. SCHEDULE VII OF THE COMPANIES ACT - SPECIFIC ACTIVITIES
+The following activities are eligible under MCA Schedule VII for CSR funding:
+- Clause (i): Eradicating hunger, poverty, and malnutrition, promoting healthcare including preventive healthcare, sanitation, and making available safe drinking water. (e.g., setting up healthcare camps, building toilets, supplying clean drinking water in rural communities).
+- Clause (ii): Promoting education, including special education and employment-enhancing vocational skills, especially among children, women, elderly, and the differently-abled, and livelihood enhancement projects. (e.g., funding government schools, setting up computer labs, basic vocational training, literacy drives).
+- Clause (iii): Promoting gender equality, empowering women, setting up homes and hostels for women and orphans, setting up old age homes, day-care centers, and such other facilities for senior citizens, and measures for reducing inequalities faced by socially and economically backward groups.
+- Clause (iv): Ensuring environmental sustainability, ecological balance, protection of flora and fauna, animal welfare, agroforestry, conservation of natural resources, and maintaining quality of soil, air, and water. (e.g., tree plantation drives, solar panel installations, water harvesting structures).
+- Clause (x): Rural development projects. (e.g., building roads in remote villages, agricultural improvements, village electrification).
+- Clause (xi): Slum area development.
+
+3. MCA CSR-1 & CSR-2 FILING REQUIREMENTS
+- CSR-1 Form: Registered NGOs must register with the MCA via Form CSR-1 to receive corporate funding. This form verifies the NGO's registration details, PAN, and active board members.
+- CSR-2 Form: Companies must submit Form CSR-2 annually to report their actual CSR expenditures, project-wise allocations, beneficiary reaches, and state/district-level geo-tags.
+- Audit evidence requires proving:
+  - Documented beneficiary verification (actual headcounts, list of names, registration logs).
+  - Clear proof of activities completed (photographic evidence with geo-timestamps, attendance sheets).
+  - Financial audit trails linking project expenses directly to physical deliverables.
+  - Project execution matching the approved CSR policy of the board.

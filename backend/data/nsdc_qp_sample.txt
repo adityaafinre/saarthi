@@ -1,0 +1,31 @@
+NSDC SKILL DEVELOPMENT SECTOR QUALIFICATION PACKS (QP) REFERENCE
+
+1. HEALTHCARE SECTOR SKILL COUNCIL (HSSC)
+- Job Role: General Duty Assistant (GDA)
+  - QP Code: HSS/Q5101
+  - Level: 4
+  - Description: Assists nurses and doctors in hospitals and clinics. Provides patient daily care, hygiene, bed-making, and monitors basic vital parameters (pulse, blood pressure, temperature).
+- Job Role: Home Health Aide (HHA)
+  - QP Code: HSS/Q5102
+  - Level: 3
+  - Description: Delivers basic healthcare and support in the patient's home. Focuses on elder care, nutritional support, personal grooming, and administering oral medications under supervision.
+
+2. AGRICULTURE SKILL COUNCIL OF INDIA (ASCI)
+- Job Role: Organic Grower
+  - QP Code: AGR/Q1201
+  - Level: 4
+  - Description: Manages crop cultivation using organic techniques. Prepares organic compost, manages soil health without chemical fertilizers, implements bio-pesticides, and certifies products according to National Standards for Organic Production (NSOP).
+- Job Role: Micro Irrigation Technician
+  - QP Code: AGR/Q1002
+  - Level: 4
+  - Description: Installs and maintains drip and sprinkler irrigation systems in fields. Involves layout design, pump sizing, pipe routing, emitter installation, and filter cleaning to maximize water efficiency.
+
+3. DOMESTIC IT & ELECTRONICS SSC
+- Job Role: Domestic Data Entry Operator (DDEO)
+  - QP Code: SSC/Q2212
+  - Level: 4
+  - Description: Enters data into digital databases, performs basic spreadsheet operations, validates records, translates scanned documents, and compiles clean reports.
+- Job Role: Solar Panel Installation Technician
+  - QP Code: ELE/Q5901
+  - Level: 4
+  - Description: Installs, wires, tests, and repairs solar photovoltaic panels and inverters at commercial or residential locations. Follows electrical safety codes.

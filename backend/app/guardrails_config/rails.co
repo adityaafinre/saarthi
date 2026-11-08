@@ -1,0 +1,18 @@
+# Sarthi Colang Guardrail Rules
+
+define user ask about numbers
+  "What are the final beneficiary counts?"
+  "How many people attended the session?"
+  "Write the budget report details"
+
+define flow check query safety
+  user ask about numbers
+  $is_query_safe = execute check_query_safety
+  if not $is_query_safe
+    bot refuse to answer
+
+define flow check output numbers consistency
+  $numbers_match = execute check_number_mismatch
+  if not $numbers_match
+    bot alter response to source numbers
+    bot inform user about metric adjustment

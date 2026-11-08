@@ -1,0 +1,20 @@
+# Sarthi NeMo Guardrails Configuration
+models:
+  - type: main
+    engine: openai
+    model: meta/llama-3.1-8b-instruct
+
+instructions:
+  - type: general
+    content: |
+      You are Sarthi's Compliance Guardrail. Your objective is to ensure that all generated reports 
+      match the exact source logs. Do not allow beneficiary counts or budget funding numbers 
+      to be inflated, deflated, or hallucinated.
+
+rails:
+  input:
+    flows:
+      - check query safety
+  output:
+    flows:
+      - check output numbers consistency
